@@ -4,7 +4,11 @@
 2. Run the commands in terminal in the same path: 
    ```sh
    iverilog -o output ALU.v register_file.v top_module.v test.v
+   ```
+   ```sh
    vvp output
+   ```
+   ```sh
    gtkwave wave.vcd
    ```
 ---
