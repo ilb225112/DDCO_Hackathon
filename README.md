@@ -12,7 +12,17 @@
    gtkwave wave.vcd
    ```
 ---
+## Team Members
 
+| S.No | SRN            | NAME                       |
+|------|-----------------|----------------------------|
+| 1    | PES1UG23CS157  | Chaitanya Makkar           |
+| 2    | PES1UG23CS166  | Chinmay Shivanand Muragod  |
+| 3    | PES1UG23CS167  | Chirag K M                 |
+| 4    | PES1UG23CS173  | Darshith M S               |
+
+
+---
 # ALU and Register File Implementation for 8-bit Processor
 
 ## Problem Statement
